@@ -245,6 +245,18 @@ This project is for educational and portfolio purposes only. It should not be us
 - Improve error handling and input validation in the Streamlit application.
 - Explore deployment after further validation.
 
+  ## Model Prediction Accureacy
+
+  <img width="615" height="615" alt="image" src="https://github.com/user-attachments/assets/4a56eb26-4303-4968-a454-8672f9600fe9" />
+
+
+# Output of Model
+<img width="812" height="775" alt="image" src="https://github.com/user-attachments/assets/4fea0b51-f5cd-44bd-8eb9-b4d3b52e73a3" />
+<img width="757" height="827" alt="image" src="https://github.com/user-attachments/assets/d85dd5a8-6f05-45ac-917b-216c66d5e0cf" />
+
+<img width="851" height="727" alt="image" src="https://github.com/user-attachments/assets/25172d49-4bfd-408e-af78-0e5542d59ae7" />
+
+
 ## 👨‍💻 Author
 
 **Ashish Pratap Dwivedi**
