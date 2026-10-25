@@ -263,7 +263,7 @@ This project is for educational and portfolio purposes only. It should not be us
 
 Interested in Data Science, Machine Learning, Artificial Intelligence, and data-driven problem-solving.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/) and explore my other projects on [GitHub](https://github.com/).
+Connect with me on [LinkedIn](www.linkedin.com/in/ashish-pratap-dwivedi-6ab776200/).
 
 ## 📄 License
 
